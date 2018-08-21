@@ -1,0 +1,6 @@
+tensorflow==1.8.0
+scipy==1.1.0
+matplotlib==2.2.3
+numpy==1.14.5+mkl
+h5py==2.8.0
+Pillow==5.2.0
