@@ -17,7 +17,7 @@ Install the pre-requisite libraries:
 pip install requirements.txt
 ```
 
-
+Run all scripts in an ipython shell or a jupyter notebook.
 Execute the script below to create a deep neural network, train and test it.
 ```
 Tensorflow_Main.py
