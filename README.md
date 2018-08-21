@@ -66,7 +66,6 @@ Test Accuracy: 0.716667
 
 ## Acknowledgement
 
-'''
-Special thanks to Professor Andrew Ng.
-'''
+* Special thanks to Professor Andrew Ng.
+
 
