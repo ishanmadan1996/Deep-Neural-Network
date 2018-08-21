@@ -29,7 +29,7 @@ tf_utils.py
 ```
 
 ## Output
-The output consists of the accuracy of the model, in correctly classifying the number displayed by the handsign, given in testing dataset. As we can see the testing accuracy is pretty impressive, which can be improved by taking more number by using regularization techniques to reduce the overfitting. We can also test the accuracy of the neural network by giving our own example as input.
+The output consists of the accuracy of the model, in correctly classifying the number displayed by the handsign, given in testing dataset. As we can see the testing accuracy is pretty impressive, which can be improved by using regularization techniques to reduce the overfitting. We can also test the accuracy of the neural network by giving our own example as input.
 
 ```
 Cost after epoch 0: 1.855702
